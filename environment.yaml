@@ -160,4 +160,3 @@ dependencies:
     - pyqtwebengine==5.12.1
     - pyyaml==6.0
     - typing-extensions==4.1.1
-prefix: /home/baprice/anaconda3/envs/jDR_ajive
