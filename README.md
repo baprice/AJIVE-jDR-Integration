@@ -1,6 +1,7 @@
 # Joint Dimension Reduction Integration using AJIVE
 
-Brandon A. Price, J.S. Marron, Lisle E. Mose, Charles M. Perou, Joel S. Parker. (2021). Translating transcriptomic findings from model systems to humans through joint dimension reduction. *Under Review*.
+Price, B.A., Marron, J.S., Mose, L.E. et al. Translating transcriptomic findings from cancer model systems to humans through joint dimension reduction. Commun Biol 6, 179 (2023). https://doi.org/10.1038/s42003-023-04529-3
+
 
 Improving clinical translation of model system genomics through joint dimension reduction and horizontal data integration.
 
